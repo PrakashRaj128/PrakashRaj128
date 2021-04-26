@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Discord
-- 📫  reach me by gitub
+- 📫  reach me by github
 
 <!---
 PrakashRaj128/PrakashRaj128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
